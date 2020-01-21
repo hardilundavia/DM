@@ -1,0 +1,3 @@
+https://python-data-science.readthedocs.io/en/latest/preprocess.html
+https://www.python-course.eu/Decision_Trees.php
+https://medium.com/@pytholabs/decision-trees-from-scratch-using-id3-python-coding-it-up-6b79e3458de4
